@@ -40,10 +40,11 @@ It highlights understanding of **API integration**, **asynchronous programming**
 | **Public API:** [Quotable API](https://api.quotable.io/random) | Source of quotes |
 
 
----
-photo
+---<img width="1536" height="1024" alt="screenshot(240)" src="https://github.com/user-attachments/assets/d333a657-6cdc-403b-bbc8-5424d5c2e883" />
+
+photo-
 
 
 
-![Uploading screenshot(240).png…]()
+
 
