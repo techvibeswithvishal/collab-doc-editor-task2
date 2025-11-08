@@ -43,7 +43,6 @@ It highlights understanding of **API integration**, **asynchronous programming**
 ---
 photo
 
-![Uploading screenshot(240).png…]()
 
 
 ![Uploading screenshot(240).png…]()
