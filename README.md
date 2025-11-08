@@ -38,12 +38,12 @@ It highlights understanding of **API integration**, **asynchronous programming**
 | **CSS 3** | Styling and responsive layout |
 | **JavaScript (ES6)** | API fetching and DOM manipulation |
 | **Public API:** [Quotable API](https://api.quotable.io/random) | Source of quotes |
-![Uploading screenshot(240).png…]()
+
 
 ---
 photo
 
-
+![Uploading screenshot(240).png…]()
 
 
 
